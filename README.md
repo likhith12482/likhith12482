@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am LIKHITH KUMAR REDDY KETHIREDDY
 
 <!--
 **likhith12482/likhith12482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an undergraduate, pursuing my final year at Kalasalingam University.
+
+
